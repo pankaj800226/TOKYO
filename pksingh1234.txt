@@ -1,0 +1,184 @@
+            margin: 0;
+            padding: 0;
+        }
+        h1{
+            text-align: center;
+            font-size: 65px;
+            margin-top: 84px;
+            letter-spacing: 1px;
+        }
+        .contenar{
+            margin-left: 574px;
+            padding: 50px 0px;
+            letter-spacing: 3px;
+        }
+        .contenar a{
+            text-decoration: none;
+            color: black;
+        }
+        .img{
+            background-position: center;
+            background-size: cover;
+        }
+        .image img{
+            padding: 44px 130px;
+            max-width: 80%;
+        }
+        .lettar h1{
+            font-size: 20px;
+            margin-top: 5px;
+          
+
+        }
+        .lettar p{
+            text-align: center;
+            margin: 22px;
+            font-size: 13px;
+        }
+        .contenar2 p{
+            margin: 55px;
+            padding: 0px 186px;
+            letter-spacing: 2px;
+    
+
+        }
+        .lettar3{
+            text-align: center;
+        }
+        .lettar3 a{
+            color: black;
+            text-decoration: none;
+            letter-spacing: 2px;
+
+        }
+        .photo img{
+            max-width: 80%;
+            padding: 105px 130px;
+        }
+        .lettar4 h1{
+            margin: -78px;
+            letter-spacing: 2px;
+        }
+        .lettar4 p{
+            margin: 100px;
+            letter-spacing: 2px;
+        }
+        .lettar5{
+            margin-top: -38px;
+        }
+        .lettar6{
+            text-align: center;
+        }
+        .lettar6 a{
+            color: black;
+            text-decoration: none;
+            letter-spacing: 2px;
+        }
+        .class img{
+            max-width: 80%;
+margin: 105px 130px;
+        }
+        .lettar7 h1{
+            margin: -70px;
+        }
+        .lettar7 p{
+            margin: 90px;
+        }
+        .lettar8 p{
+            margin: 20px 110px;
+        }
+        .lettar9 {
+            text-align: center;
+            margin: 45px;
+        }
+        .lettar9 a{
+            color: black;
+text-decoration: navajowhite;
+        }
+        footer{
+            height: 110px ;
+            background-color: white;
+            color: black;
+        }
+        .pksingh{
+            text-align: center;
+padding: 66px;
+        }
+        .fb img{
+            height: 20px;
+margin-top: 22px;
+padding: 21px 578px;
+display: inline-block;
+        }
+        .tw img{
+            height: 20px;
+margin-top: -45px;
+padding: 0px 614px;
+display: flex;
+        }
+        .drive img{
+            height: 20px;
+margin-top: -45px;
+padding: 25px 647px;
+display: flex;
+        }
+      *{
+
+       
+      
+
+    </style>
+</head>
+<body>
+    <h1>TOKYO</h1>
+  <div class="contenar">
+    <a href="BLOG">BLOG</a>
+    <a href="ABOUT">ABOUT</a>
+  </div>
+    <div class="image">
+        <img src="image.jpg" alt="">
+    </div>
+    <div class="lettar">
+        <h1>SOAKING IN THE COLORS</h1>
+        <p>FEBRUARY 28, 2020INSPORTS</p>
+        <div class="contenar2">
+           <p>After me I dragged six lengths of leather from an equal number of my warriors. These lengths we had previously fastened together, and passing one end to the topmost warrior I lowered the other end cautiously over the opposite side of the wall toward the avenue below. No one was in sight, so, lowering myself to the end of my leather strap, I dropped the remaining thirty feet to the pavement below.
+        </p>
+        <div class="lettar3">
+            <a href="READ MORE">READ MORE</a>
+    </div>
+    <div class="photo">
+        <img src="img.jpg" alt="">
+    </div>
+    <div class="lettar4">
+        <h1>AS WE FALL INTO THE EARTH</h1>
+        <p>FEBRUARY 28, 2020INMUSIC</p>
+        <div class="lettar5">
+            <p>In this way, with ten warriors, I built a series of three steps from the ground to the shoulders of the topmost man. Then starting from a short distance behind them I ran swiftly up from one tier to the next, and with a final bound from the broad shoulders of the highest I clutched the top of the great wall and quietly drew myself to its broad expanse. After me I dragged six lengths of leather from an equal number of my warriors.</p>
+            <div class="lettar6">
+                <a href="READ MORE">READ MORE</a>
+            </div>
+            <div class="class">
+                <img src="pk.jpg" alt="">
+            </div>
+            <div class="lettar7">
+            <h1>REACHING MAJESTY</h1>
+            <p>FEBRUARY 28, 2020INENTERTAINMENT</p>
+            <div class="lettar8">
+                <p>The scent of hay was in the air through the lush meadows beyond Pyrford, and the hedges on either side were sweet and gay with multitudes of dog-roses. The heavy firing that had broken out while we were driving down Maybury Hill ceased as abruptly as it began, leaving the evening very peaceful and still. We got to Leatherhead without misadventure about nine o'clock, and the horse had an hour's rest while I took supper with my cousins and commended my wife to their care.</p>
+                   <div class="lettar9">
+                    <a href="READ MORE">READ MORE</a>
+                   </div>
+                   <footer>
+                    <div class="fb">
+                        <img src="fb.png" alt="">
+                    </div>
+                        <div class="tw">
+                            <img src="tw.png" alt="">
+                        </div>
+                        <div class="drive">
+                            <img src="drive.png" alt="">
+                        </div>
+
+                   </footer>
+    
